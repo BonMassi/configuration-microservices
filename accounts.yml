@@ -6,6 +6,6 @@ accounts:
   message: "Welcome to BonBank accounts related local APIs"
   contactDetails:
     name: "Bon Tirado-Developer"
-    email: "bon@tirado.com"
+    email: "{cipher}1876a0d8174d97d50648419443386b2c08bdb65dfe1e755b096f34f3570ef053"
   onCallSupport:
     -669 44 55 726
